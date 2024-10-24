@@ -56,7 +56,7 @@ const Welcome = () => {
             </button>
           )}
 
-          <div className="grid sm:grid-cols-3 grid-cols-2 w-full mt-10">
+          {/* <div className="grid sm:grid-cols-3 grid-cols-2 w-full mt-10">
             <div className={`rounded-tl-2xl ${companyCommonStyles}`}>
               Reliability
             </div>
@@ -71,7 +71,7 @@ const Welcome = () => {
             <div className={`rounded-br-2xl ${companyCommonStyles}`}>
               Blockchain
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="flex flex-col flex-1 items-center justify-start w-full mf:mt-0 mt-10">
